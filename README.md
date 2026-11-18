@@ -1,6 +1,6 @@
 # Aru
 
-[Use this template on Transform Resume](https://www.transformresume.com/templates/aru)
+[Use this template on Transform Resume](https://www.transformresume.com/templates/aru?ref=github)
 
 <img width="935" height="1210" alt="image" src="https://github.com/user-attachments/assets/67ba13ee-f8de-463c-94ef-dd7c7181505d" />
 
@@ -21,6 +21,6 @@ A free resume builder with templates and an AI assistant.
 
 ## How to make a resume with this template
 
-1. Open [Transform Resume](https://www.transformresume.com).
+1. Open [Transform Resume](https://www.transformresume.com/?ref=github).
 2. Pick Aru in the template gallery.
 3. Add your own details in the editor. Export the PDF.
