@@ -2,6 +2,8 @@
 
 [Use this template on Transform Resume](https://www.transformresume.com/templates/aru)
 
+![Aru resume template](preview.png)
+
 [Download the sample PDF](aru.pdf)
 
 ## About this template
