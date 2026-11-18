@@ -8,7 +8,7 @@
 
 ## About this template
 
-A one-page, one-column resume for software engineers and developers. Education, experience and projects sit under small-caps section titles with thin rules, so recruiters can scan it quickly.
+A one-column resume for software engineers and developers. Education, experience and projects sit under small-caps section titles with thin rules, so recruiters can scan it quickly.
 
 ## What is Transform Resume
 
